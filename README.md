@@ -71,6 +71,6 @@ Deployment successful ✅
 
 
 ## 📫 Connect with Me  
-- LinkedIn: [Shivraj pathik](https://www.linkedin.com/in/shivraj-892500298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- LinkedIn: [Shivraj pathik](https://www.linkedin.com/in/shivraj-892500298)  
 - GitHub: [SHIVRAJ-001](https://github.com/SHIVRAJ-001)  
 - Portfolio: (https://shivraj-001.github.io/porfolio.io/) 
