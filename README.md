@@ -25,7 +25,7 @@ Deployment successful ✅
 ---
 
 ## 📈 Productivity Chart  
-![Shivraj’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CaptainSR7&theme=react-dark)
+![Shivraj’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHIVRAJ-001&theme=react-dark)
 
 ---
 
@@ -45,7 +45,8 @@ Deployment successful ✅
 <summary>🌐 Web Development</summary>
 
 - HTML5, CSS3, Bootstrap  
-- JavaScript (ES6+)  
+- JavaScript (ES6+) 
+- ReactJs 
 - Django (beginner)  
 
 </details>
@@ -68,18 +69,8 @@ Deployment successful ✅
 - Practicing **Java DSA** for problem-solving  
 - Open-source contributions (coming soon...)  
 
----
-
-## 📊 GitHub Activity
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CaptainSR7&show_icons=true&theme=tokyonight" alt="Shivraj Stats"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptainSR7&theme=tokyonight" alt="Streak Stats"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainSR7&layout=compact&theme=tokyonight" alt="Top Languages"/>  
-</p>
-
----
 
 ## 📫 Connect with Me  
-- LinkedIn: [Shivraj](#)  
-- GitHub: [@CaptainSR7](https://github.com/CaptainSR7)  
-- Portfolio: *Coming Soon*  
+- LinkedIn: [Shivraj pathik](https://www.linkedin.com/in/shivraj-892500298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- GitHub: [SHIVRAJ-001](https://github.com/SHIVRAJ-001)  
+- Portfolio: (https://shivraj-001.github.io/porfolio.io/) 
