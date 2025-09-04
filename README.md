@@ -19,8 +19,9 @@ Deployment successful ✅
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding GIF" width="400"/>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400"/>
 </p>
+
 
 ---
 
